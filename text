@@ -1,0 +1,42 @@
+Fråga 1 " Vilken teori är einstein känd för?"
+a: " Stringteorin",
+b: " Hawkingradiation",
+c: "Kvantfysik",
+d: "Relativitetsteorin"
+KorrektSvar: d
+
+
+ " Fråga 2 Vad upptäckte Marie Curie",
+a:" Radium",
+b:" Uran",
+c:" Kvicksilver",
+d:" Titanium",
+Korrekt svar: a
+
+
+" Fråga 3 Vad sägs ha fallit på Isaac Newtons huvud?",
+a: "Löv",
+b: "Sten",
+c: "Äpple",
+d: "Päron",
+
+ " Fråga 4 Vem stal Nicolas Tesla ide om parallellkoppling?",
+a: "Tomas Eddison",
+b: "Elon Musk",
+c: "Marie Curie",
+d: "Jefree Bezos",
+
+"Fråga 5 Vem förknippas med formlen E=mc^2",
+a: "Einstein",
+b: "Newton",
+c: "Edison",
+d: "Curie",
+Korrekt svar: a
+
+
+Fråga 6 "Vad är Newtons första regel"
+a: En kropp i vila, förblir i vila… och en kropp i rörelse, förblir i rörelse
+b: En kropp i vila blir snabbare med hjälp av kraft
+c: g = 9.82
+d: MC^2
+

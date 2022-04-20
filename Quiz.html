@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="Quiz.css">
+    <title>quiz</title>
+</head>
+<body>
+    <div class="quizInnehåll" id="quiz">
+        <div class="quiz-header">
+          <h2 id="Fråga"></h2>
+          <ul>
+            <li>
+              <input type="radio" name="Svar" id="a" class="Svar">   <!--Kopplar frågorna till javascript-->
+              <label for="a" id="a_text">Svar</label>
+            </li>
+    
+            <li>
+              <input type="radio" name="Svar" id="b" class="Svar">
+              <label for="b" id="b_text">Svar</label>
+            </li>
+    
+            <li>
+              <input type="radio" name="Svar" id="c" class="Svar">
+              <label for="c" id="c_text">Svar</label>
+            </li>
+    
+            <li>
+              <input type="radio" name="Svar" id="d" class="Svar">
+              <label for="d" id="d_text">Svar</label>
+            </li>
+
+        
+    
+          </ul>
+        </div>
+    
+        <button id="Svara">Svara</button> <!--Button för att kunna svara-->
+    
+      </div>
+  <script src="Quiz.js"></script>
+</body>
+</html>
